@@ -12,5 +12,5 @@ variable "storage_account_name" {
 }
 variable "environment" {
   type        = string
-  description = "prod or dev"
+  description = "prod or dev" 
 }
